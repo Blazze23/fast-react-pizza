@@ -12,10 +12,6 @@ module.exports = {
   settings: { react: { version: "18.2" } },
   plugins: ["react-refresh"],
   rules: {
-    "react-refresh/only-export-components": [
-      "0",
-      { allowConstantExport: true },
-    ],
     "react/prop-types": 0,
     "react/forbid-prop-types": 0,
     "no-unused-vars": "off",
