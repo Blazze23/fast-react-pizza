@@ -11,7 +11,7 @@ function Home() {
         The best pizza.
         <br />
         <span className="text-yellow-500">
-          Straight out of the oven, straight to you.
+          Bringing Hot, Delicious Pizzas Straight to Your Doorstep!
         </span>
       </h1>
       {username === "" ? (

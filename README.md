@@ -1,4 +1,10 @@
-# React + Vite
+# Pizza Pal Express
+
+This an react app where you can order pizzas to your doorstep.
+It is made in react using react router, redux toolkit and tailwind for styling.
+Live preview of the app available at: [pizzapalexpress.netlify.app](https://pizzapalexpress.netlify.app)
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
